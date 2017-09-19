@@ -1,0 +1,22 @@
+{
+  "name": "guarddog",
+  "version": "1.0.0",
+  "description": "API url and body json  validator based on set of expected API calls,data types and formats. The format can be given by the user in a json. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "url",
+    "body",
+    "json",
+    "format",
+    "validate",
+    "api",
+    "middleware",
+    "security"
+  ],
+  "author": "Don Rajitha Dissanayake",
+  "license": "ISC",
+  "dependencies": {}
+}
